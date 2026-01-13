@@ -68,18 +68,29 @@ const namith = {
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-00A4EF?style=for-the-badge&logo=esri&logoColor=white)
 ![Folium](https://img.shields.io/badge/Folium-77B900?style=for-the-badge&logo=python&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![Contextily](https://img.shields.io/badge/Contextily-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Osmnx](https://img.shields.io/badge/Osmnx-FF6B6B?style=for-the-badge&logo=openstreetmap&logoColor=white)
+![Geopandas](https://img.shields.io/badge/Geopandas-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rasterio](https://img.shields.io/badge/Rasterio-0066CC?style=for-the-badge&logo=python&logoColor=white)
+![Shapely](https://img.shields.io/badge/Shapely-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Data & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6B35?style=for-the-badge&logo=n8n&logoColor=white)
+![Google Agent Development Kit](https://img.shields.io/badge/Google_Agent_Dev_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ## 🎯 My Mission
 
