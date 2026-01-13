@@ -5,9 +5,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Namithnp">
-    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="mailto:namithnp23@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -16,6 +13,10 @@
   </a>
   <a href="https://github.com/Namithnp">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+    <a href="[https://github.com/Namithnp](https://www.kaggle.com/namithnp)">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white
+"/>
   </a>
 </div>
 
@@ -48,7 +49,7 @@ const namith = {
 
 ## 🔥 What Drives Me
 
-- 🌍 **Geospatial Intelligence**: Analyzing geographic data to uncover patterns and insights
+- 🌍 **Geospatial Intelligence**: Analyzing geographic data to uncover patterns and insights. Regular OpenStreetMap contributor
 - 📡 **Remote Sensing**: Working with satellite and aerial imagery data
 - 🔍 **OSINT**: Open Source Intelligence gathering and analysis
 - 🤖 **Machine Learning**: Applying ML models to geospatial problems
@@ -60,6 +61,9 @@ const namith = {
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![R]https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 
 ### Geospatial & GIS Tools
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
@@ -80,18 +84,18 @@ const namith = {
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+[![NetworkX](https://img.shields.io/badge/NetworkX-2088FF?style=for-the-badge&logo=python&logoColor=white)]()
 
 
 ### Agentic AI Tools
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Google Agent Development Kit](https://img.shields.io/badge/Google_Agent_Dev_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6B35?style=for-the-badge&logo=n8n&logoColor=white)
+![Google Agent Development Kit](https://img.shields.io/badge/Google_Agent_Dev_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6B35?style=for-the-badge&logo=n8n&logoColor=white)
 
-### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ## 🎯 My Mission
 
 Unlocking insights from geospatial data to solve real-world problems and contribute across verticals, mainly defence and intelligence.
