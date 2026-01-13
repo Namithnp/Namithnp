@@ -49,7 +49,7 @@ const namith = {
 
 ## 🔥 What Drives Me
 
-- 🌍 **Geospatial Intelligence**: Analyzing geographic data to uncover patterns and insights. Regular OpenStreetMap contributor
+- 🌍 **Geospatial Intelligence**: Analyzing geographic data to uncover patterns and insights. Regular OpenStreetMap contribution and reading articles related to GEOINT
 - 📡 **Remote Sensing**: Working with satellite and aerial imagery data
 - 🔍 **OSINT**: Open Source Intelligence gathering and analysis
 - 🤖 **Machine Learning**: Applying ML models to geospatial problems
