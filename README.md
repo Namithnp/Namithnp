@@ -5,13 +5,13 @@
 </div>
 
 <div align="center">
-  <a href="https://namithnp.github.io">
+  <a href="https://github.com/Namithnp">
     <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:namith.np@example.com">
+  <a href="mailto:namithnp23@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/namithnp">
+  <a href="https://www.linkedin.com/in/namith-n-p-8b84524a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Namithnp">
@@ -27,11 +27,11 @@
 const namith = {
   location: "Bengaluru, India",
   education: {
-    current: "Continuous Learning & Professional Development",
+    current: Master of Computer Applications",
     focus: "Geospatial Analysis, Machine Learning, OSINT"
   },
   work: {
-    current: "GIS Developer | Data Analyst",
+    current: null,
     expertise: [
       "Geospatial Data Processing",
       "Remote Sensing & Satellite Imagery",
@@ -40,16 +40,9 @@ const namith = {
   },
   learning: [
     "Advanced Deep Learning for Geospatial Data",
-    "Cloud-based GIS Solutions",
     "Real-time Data Visualization",
     "Geospatial Intelligence (GEOINT)"
   ],
-  achievements: [
-    "Built 20+ Geospatial Analysis Projects",
-    "Processed 100K+ Geospatial Data Records",
-    "Expert in QGIS and ArcGIS",
-    "Specialized in OSINT & Data Mining"
-  ]
 };
 ```
 
@@ -61,17 +54,6 @@ const namith = {
 - 🤖 **Machine Learning**: Applying ML models to geospatial problems
 - 📚 **Continuous Learning**: Staying updated with geospatial technologies
 
-## 👨‍💼 About Me: Professional Experience
-
-🗺️ **GIS Developer & Data Analyst** | Building geospatial solutions and analyzing geographic data
-
-📊 **Data Visualization** | Creating maps and dashboards with QGIS, Folium, and Leaflet
-
-💼 **Looking to collaborate on** Geospatial Analysis, Machine Learning projects, OSINT investigations, and Data Analytics
-
-🔧 **Specializing in** Geospatial Data Processing, Remote Sensing, OpenStreetMap Analysis, and OSINT
-
-📧 **How to reach me:** namith.np@example.com
 
 ## 🛠️ Tech Stack Expertise
 
