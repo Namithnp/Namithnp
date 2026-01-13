@@ -101,15 +101,11 @@ const namith = {
 Unlocking insights from geospatial data to solve real-world problems and contribute across verticals, mainly defence and intelligence.
 
 ## 🚀 Featured Projects
+[![Telegram-OSINT-Incident-Mapping](https://img.shields.io/badge/Telegram%20OSINT-Incident%20Mapping-FF6B6B?style=for-the-badge)](https://github.com/Namithnp/Telegram-OSINT-Incident-Mapping)
 
-| Project | Description | Tech Stack |
-|---------|-------------|----------|
-| **Geospatial Data Pipeline** | Automated processing of satellite imagery and geographic data | Python, GDAL, PostGIS |
-| **Interactive Map Visualization** | Web-based mapping application with real-time data | Folium, Flask, Leaflet |
-| **OSINT Data Aggregator** | Gathering and analyzing open-source intelligence data | Python, Web Scraping |
-| **Satellite Image Classification** | ML model for land use classification from satellite imagery | TensorFlow, QGIS |
+[![J-K-livability-index](https://img.shields.io/badge/J%26K-Livability%20Index-4ECDC4?style=for-the-badge)](https://github.com/Namithnp/J-K-livability-index)
 
----
+[![Data-Analysis-Notebooks](https://img.shields.io/badge/Data%20Analysis-Notebooks-95E1D3?style=for-the-badge)](https://github.com/Namithnp/Data-Analysis-Notebooks)---
 
 <div align="center">
   
