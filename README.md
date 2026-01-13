@@ -99,17 +99,9 @@ const namith = {
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🏆 Achievements & Recognition
-
-- **Geospatial Analysis Expert** - Developed 20+ mapping and analysis projects
-- **Data Processing Specialist** - Handled large-scale geospatial datasets
-- **OSINT Researcher** - Conducted open-source intelligence investigations
-- **Problem Solver** - Created efficient solutions for complex geospatial problems
-- **Continuous Learner** - Always exploring new geospatial technologies
-
 ## 🎯 My Mission
 
-Unlocking insights from geospatial data to solve real-world problems—enabling better decision-making through maps, analysis, and intelligence.
+Unlocking insights from geospatial data to solve real-world problems and contribute across verticals, mainly defence and intelligence.
 
 ## 🚀 Featured Projects
 
@@ -126,6 +118,6 @@ Unlocking insights from geospatial data to solve real-world problems—enabling 
   
 **Let's build something amazing together! 🚀**
 
-[Connect on LinkedIn](https://www.linkedin.com/in/namithnp) • [Send me an Email](mailto:namith.np@example.com) • [Visit My GitHub](https://github.com/Namithnp)
+[Connect on LinkedIn](https://www.linkedin.com/in/namith-n-p-8b84524a/) • [Send me an Email](mailto:namithnp23@gmail.com) • [Visit My GitHub](https://github.com/Namithnp)
 
 </div>
