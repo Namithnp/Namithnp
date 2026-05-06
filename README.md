@@ -14,7 +14,7 @@
   <a href="https://github.com/Namithnp">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-    <a href="[https://github.com/Namithnp](https://www.kaggle.com/namithnp)">
+    <a href="https://www.kaggle.com/namithn)">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white
 "/>
   </a>
