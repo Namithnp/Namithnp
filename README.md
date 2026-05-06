@@ -32,11 +32,12 @@ const namith = {
     focus: "Geospatial Analysis, Machine Learning, OSINT"
   },
   work: {
-    current: null,
+    current: GeoAI Full Stack intern at Gesix Solutions,
     expertise: [
       "Geospatial Data Processing",
       "Remote Sensing & Satellite Imagery",
-      "OpenStreetMap Analysis"
+      "Machine Learning",
+      "Neural Networks"
     ]
   },
   learning: [
