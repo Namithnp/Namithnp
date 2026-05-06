@@ -14,9 +14,8 @@
   <a href="https://github.com/Namithnp">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-    <a href="https://www.kaggle.com/namithn)">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white
-"/>
+  <a href="https://www.kaggle.com/namithn">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 </div>
 
@@ -28,11 +27,11 @@
 const namith = {
   location: "Bengaluru, India",
   education: {
-    current: Master of Computer Applications",
+    current: "Master of Computer Applications",
     focus: "Geospatial Analysis, Machine Learning, OSINT"
   },
   work: {
-    current: GeoAI Full Stack intern at Gesix Solutions,
+    current: "GeoAI Full Stack intern at Gesix Solutions",
     expertise: [
       "Geospatial Data Processing",
       "Remote Sensing & Satellite Imagery",
@@ -87,10 +86,18 @@ const namith = {
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 [![NetworkX](https://img.shields.io/badge/NetworkX-2088FF?style=for-the-badge&logo=python&logoColor=white)]()
 
+### 🧠 Neural Networks / Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Agentic AI Tools
-![Google Agent Development Kit](https://img.shields.io/badge/Google_Agent_Dev_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6B35?style=for-the-badge&logo=n8n&logoColor=white)
-
+![Google Agent Development Kit](https://img.shields.io/badge/Google_Agent_Dev_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6B35?style=for-the-badge&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM_Studio-7C3AED?style=for-the-badge&logo=lmstudio&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -106,12 +113,9 @@ Unlocking insights from geospatial data to solve real-world problems and contrib
 
 [![J-K-livability-index](https://img.shields.io/badge/J%26K-Livability%20Index-4ECDC4?style=for-the-badge)](https://github.com/Namithnp/J-K-livability-index)
 
-[![Data-Analysis-Notebooks](https://img.shields.io/badge/Data%20Analysis-Notebooks-95E1D3?style=for-the-badge)](https://github.com/Namithnp/Data-Analysis-Notebooks)---
+[![Data-Analysis-Notebooks](https://img.shields.io/badge/Data%20Analysis-Notebooks-95E1D3?style=for-the-badge)](https://github.com/Namithnp/Data-Analysis-Notebooks)
+
+---
 
 <div align="center">
-  
-**Let's build something amazing together! 🚀**
-
-[Connect on LinkedIn](https://www.linkedin.com/in/namith-n-p-8b84524a/) • [Send me an Email](mailto:namithnp23@gmail.com) • [Visit My GitHub](https://github.com/Namithnp)
-
 </div>
